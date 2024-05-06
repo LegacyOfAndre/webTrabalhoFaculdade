@@ -17,6 +17,7 @@ div{
     margin-top: 50px;
 }
 
+/* List */
 #menu ul {
 
     list-style: none;
@@ -27,6 +28,7 @@ div{
     display: inline;
 }
 
+/* Button */
 #menu ul li a {
     color: black;
     background: rgba(255, 255, 255, 0.1);
